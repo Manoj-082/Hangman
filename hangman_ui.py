@@ -8,8 +8,9 @@ WORDS = {
     "house": "A place to live 🏠",
     "table": "Used for eating or working",
     "water": "Essential liquid for life 💧",
+    "plant": "Green living organism 🌱",
+    "mouse": "Small animal or computer device 🐭"
 }
-
 STAGES = ["🙂","😐","😟","😨","😰","😵","💀"]
 
 st.set_page_config(page_title="Hangman", layout="centered")
